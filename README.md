@@ -7,7 +7,19 @@ This is the hiring assignment for the TAM Team at Algolia. It’s intended to mi
 * Communication
   
 If you want to know how we will judge the assignment, you can view our scoring rubric.  
-  
+
+## Starting Application in Development Environment:
+
+* Add in .env.test file and fill in the following fields with your own application credentials:
+    * ALGOLIA_APP_ID
+    * ALGOLIA_API_KEY
+    * ALGOLIA_INDEX
+* Install Dependencies:  
+`npm install`
+* Build Application:  
+`npm start`
+* You should be able to access `index.html` at: http://localhost:3000/
+
 ## Brief
 Spencer and Williams have provided us with raw product data and a repo of their front end code. They have asked us for help to enhance their implementation and have asked that we create an Algolia application to demonstrate this to them.
 
