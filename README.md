@@ -44,7 +44,7 @@ It is imperative that we send clicks and conversion on the result page hit resul
 ### Technical Assignment - Part Three (0.5 hrs)
 Spencer and Williams want some guidance on their optimal relevance set up. In the Algolia index that you have uploaded the data and events to, configure the relevance so that when users are searching they are seeing the results that make most sense. 
 
->For part three of this assignment, I utilized the Algolia dashboard to configure the results page for optimal relevance. This allowed me to learn more about how products show up in the results page, and how changing these options affected search results. Then, I implemented a flag (-s) within the upload_data.js script to allow the user to set these settings programmatically through the command line.
+>For part three of this assignment, I utilized the Algolia dashboard to configure the results page for optimal relevance. This allowed me to learn more about how products show up in the results page, and how changing these options affected search results. I was also able to configure the facets feature, allowing users to filter results based on product brand and categories. Then, I implemented a flag (-s) within the upload_data.js script to allow the user to set these settings programmatically through the command line.
 >
 >Potential Improvements:
 >

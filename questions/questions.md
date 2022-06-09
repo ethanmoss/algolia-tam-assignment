@@ -62,7 +62,7 @@ https://support.algolia.com/hc/en-us/articles/4406981897617-Is-there-a-size-limi
 
 If reducing the size of your metadata is not feasible at the current time, I would be glad to work together to find a solution that will work for you.
 
-Please let me know if you have any further quetions or concerns.
+Please let me know if you have any further questions or concerns.
 
 Best,  
 Ethan  
