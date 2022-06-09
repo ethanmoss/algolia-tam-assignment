@@ -87,16 +87,16 @@ Can you fix it please?
 From: ethan.moss@algolia.com  
 Subject: Re:Error on website  
 
-Good Morning Mark,
+Good Morning Marc,
 
 Thanks for reaching out in regards to your application issues. According to your attached screenshot, it looks like your 'searchkit' variable is undefined.
 
-My first thought regarding this error is to check and make sure all of your environment variables are making it from your '.env' file into your application after the build process. However, I may need some more information to be able to assist you further.
+My first thought regarding this error is to check and make sure all of your environment variables are making it from your '.env' file into your application during the build process. However, I may need some more information to be able to assist you further.
 
 I would be happy to get on a call with you shortly to go through this error with you and find a solution if that would be helpful.
 
 Please let me know if you would like to schedule a call today, or if you have any further questions or concerns.
 
-Kindly,
+Kindly,  
 Ethan  
 Customer Success Engineer @ Algolia
