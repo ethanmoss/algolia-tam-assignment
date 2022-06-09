@@ -1,7 +1,7 @@
 import algoliasearch from 'algoliasearch';
 import instantsearch from 'instantsearch.js';
 import { searchBox, hits, pagination, refinementList } from 'instantsearch.js/es/widgets';
-import { createInsightsMiddleware } from 'instantsearch.js/es/middlewares'
+import { createInsightsMiddleware } from 'instantsearch.js/es/middlewares';
 import aa from 'search-insights';
 
 import resultHit from '../templates/result-hit';

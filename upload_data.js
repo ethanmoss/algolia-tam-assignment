@@ -97,4 +97,4 @@ const percent_price_reduction = argv.p;
 if(argv.s) setIndexSettings(index);
 
 reducePrice(products, product_category, percent_price_reduction);
-sendData(products, index)
+sendData(products, index);
