@@ -78,11 +78,11 @@ const argv = yargs
     }).check(argv => {
         // Check to ensure price reduction percentage is a valid number
         if(Number.isNaN(argv.p) ) {
-            throw new Error("Percent price reduction must be a valid number.")
+            throw new Error("Percent price reduction must be a valid number.");
         }
         // TODO: Insert more error checking for data source filepath, product categories here
         else {
-            return true
+            return true;
         }
     }).argv;
 

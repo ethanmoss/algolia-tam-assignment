@@ -16,6 +16,8 @@ If you want to know how we will judge the assignment, you can view our scoring r
     * ALGOLIA_INDEX
 * Install Dependencies:  
 `npm install`
+* Upload data and set index settings:  
+`node upload_data.js`
 * Build Application:  
 `npm start`
 * You should be able to access `index.html` at: http://localhost:3000/
