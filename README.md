@@ -10,7 +10,7 @@ If you want to know how we will judge the assignment, you can view our scoring r
 
 ## Starting Application in Development Environment:
 
-* Add in .env.test file and fill in the following fields with your own application credentials:
+* Add in .env file and fill in the following fields with your own application credentials:
     * ALGOLIA_APP_ID
     * ALGOLIA_API_KEY
     * ALGOLIA_INDEX
@@ -68,6 +68,8 @@ Spencer and Williams want some guidance on their optimal relevance set up. In th
 ### Questions (0.5 hrs)
   
 Please answer example customer questions in the questions directory.  
+
+>In-line email responses can be found in: `/questions/questions.md`
   
 ## Getting started
   

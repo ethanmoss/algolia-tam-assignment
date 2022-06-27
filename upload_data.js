@@ -1,4 +1,4 @@
-require('dotenv').config({ path: './.env.test' });
+require('dotenv').config();
 const yargs = require('yargs');
 const algoliasearch = require('algoliasearch');
 
